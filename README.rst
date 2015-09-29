@@ -2,7 +2,9 @@
 onetimesecret
 #############
 
-.. image:: https://travis-ci.org/kevincoakley/onetimesecret.svg?branch=master:target: https://travis-ci.org/kevincoakley/onetimesecret
+.. image:: https://travis-ci.org/kevincoakley/onetimesecret.svg?branch=master
+    :target: https://travis-ci.org/kevincoakley/onetimesecret
+
 
 ************
 Installation
