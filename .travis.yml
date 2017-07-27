@@ -12,4 +12,4 @@ install:
 before_script: "flake8 --ignore=E402 --max-line-length=100  --show-source --count ."
 
 script:
-  - "python run_tests.py"
+  - "setup.py test"
