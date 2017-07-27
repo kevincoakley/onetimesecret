@@ -31,7 +31,6 @@ setup(name="onetimesecret",
       url="",
       packages=[
           "onetimesecret",
-          "onetimesecret/py_onetimesecret",
       ],
       platforms="Posix; MacOS X",
       classifiers=[
